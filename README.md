@@ -1,4 +1,6 @@
 # walmart_scarper
+
+Step-by-step tutorial: [Product Review Scraper](https://youtu.be/yuVGiVKbz9I)
 Scrape Walmart product reviews using Selenium &amp; BeautifulSoup
 WALMART SCRAPER - PREET SHAH
 
